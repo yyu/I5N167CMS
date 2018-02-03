@@ -3,10 +3,7 @@
     "description": "A browser action with a popup that shows CMS at I-5 North 167",
     "version": "1.0",
 
-    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
-
     "permissions": [
-        "tabs", "http://*/*", "https://*/*"
     ],
 
     "icons": {
